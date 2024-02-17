@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkmr07&label=Profile%20views&color=0e75b6&style=flat" alt="shkmr07" /> </p>
 
-- 🌱 I’m currently learning Prepleaf By Masai **Full Stack Web Developer**
+- 🌱 I’m currently learning  **Full Stack Web Developer**
 
 - 💬 Ask me about **Python and DSA**
 
