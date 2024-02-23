@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Algorithm Developer</h3>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Description of the GIF">
 
 
